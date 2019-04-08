@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">practica1</string>
+    <string name="correo">anwaltzzz@me.com</string>
+    <string name="contraseña">.......</string>
+    <string name="button">SIGN IN</string>
+    <string name="guardar">Forgot your password?</string>
+
+</resources>
